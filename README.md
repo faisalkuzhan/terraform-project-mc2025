@@ -1,1 +1,1 @@
-# terraform-project-mc2025
+# terraform-project
